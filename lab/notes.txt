@@ -1,2 +1,3 @@
  
 Learning Git step by step
+Git helps in version control
